@@ -1,3 +1,1 @@
-index.v
-
-sua noi dung index.v
+noi dung file index.v
